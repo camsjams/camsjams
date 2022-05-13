@@ -29,4 +29,4 @@
  
  <p><img style="width:50%" align="center" src="https://github-readme-stats.vercel.app/api?username=camsjams&show_icons=true&locale=en" alt="camsjams" /></p>
 
-<p><a href="https://stackoverflow.com/users/728013/cameron"><img   align="center"src="https://stackoverflow.com/users/flair/728013.png" style="width:50%"  alt="profile for Cameron at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Cameron at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
+<p><a href="https://stackoverflow.com/users/728013/cameron"><img   align="center"src="https://stackoverflow.com/users/flair/728013.png" style="width:25%"  alt="profile for Cameron at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Cameron at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
