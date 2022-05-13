@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/camsjams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camsjams" height="30" width="40" /></a>
 <a href="https://medium.com/@cameron-manavian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cameron-manavian" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucjrl26jvjuyw_ykao6h2dag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjrl26jvjuyw_ykao6h2dag" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/CameronManavian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjrl26jvjuyw_ykao6h2dag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
