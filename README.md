@@ -27,6 +27,6 @@
 <h4>Stats:</h4>
 <p><img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=camsjams&show_icons=true&locale=en&layout=compact" alt="camsjams" /></p>
 
-<p>&nbsp;<img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=camsjams&show_icons=true&locale=en" alt="camsjams" /></p>
+<p><img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=camsjams&show_icons=true&locale=en" alt="camsjams" /></p>
 
-
+<p><a href="https://stackoverflow.com/users/728013/cameron"><img   align="center"src="https://stackoverflow.com/users/flair/728013.png" width="208" height="58" alt="profile for Cameron at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Cameron at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
