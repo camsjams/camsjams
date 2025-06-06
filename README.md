@@ -7,7 +7,7 @@
 
 - 📈 I host a [newsletter with 1,000+ subscribers that focuses on stock insights, performance, and answering the why in recent market events](https://stocktalkin.com/?nbs=cpm)
 
-- 🕹️ I also run a [video game newsletter that curates and informs busy video game fanatics about recent big events, new games, and industry news](🕹https://thepixelatedprophet.com/?nbs=cpm)
+- 🕹️ I also run a [popular video game newsletter that curates and informs busy video game fanatics about recent big events, new games, and industry news](🕹https://thepixelatedprophet.com/?nbs=cpm)
 
 - 💬 Ask me about **React, Rust, Kubernetes, TypeScript**
 
